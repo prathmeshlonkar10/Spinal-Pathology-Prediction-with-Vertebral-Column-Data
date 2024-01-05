@@ -4,6 +4,12 @@
 ## Highlight
 Diving into the depths of the KNN algorithm to classify orthopedic patients with Spinal disorders.
 
+## Contents
+- Data Analysis
+- Data Visualization
+- KNN with different distance metrics
+- Result comparison
+
 ## Technologies used
 ![](https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white)
 ![](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
